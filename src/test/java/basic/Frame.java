@@ -20,8 +20,6 @@ public class Frame {
 		Thread.sleep(3000);
 
 		driver.findElement(By.xpath("//div[@class='container']//div[@class='col-xs-6 col-xs-offset-5']//input")).sendKeys("Shruthi");
-		//pull 1
-		
 		
 	}
 
